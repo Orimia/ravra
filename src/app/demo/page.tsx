@@ -472,7 +472,7 @@ function buildSteps(): Step[] {
             </div>
           </div>
           <div className="mt-6 pt-6 border-t border-paper-3/20 text-[13px] text-paper-3 max-w-2xl leading-relaxed">
-            VandyLoop is the demo. Recoup is the platform: verified-behavior infrastructure for
+            VandyLoop is the demo. Ravra is the platform: verified-behavior infrastructure for
             the circular economy. Vanderbilt is campus #1.
           </div>
         </div>

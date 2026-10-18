@@ -53,7 +53,7 @@ export const seedRewards: Reward[] = [
     name: "VandyLoop limited tee",
     cost: 800,
     description: "Recycled-cotton challenge tee. While supplies last.",
-    sponsor: "Recoup",
+    sponsor: "Ravra",
   },
   {
     id: "rw-tickets",

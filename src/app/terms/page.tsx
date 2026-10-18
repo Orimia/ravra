@@ -13,8 +13,8 @@ export default function TermsPage() {
     <div className="flex-1">
       <div className="mx-auto max-w-2xl px-6 py-16">
         <Link href="/" className="inline-flex items-center gap-2 mb-8">
-          <Image src="/recoup-logo.png" alt="Recoup" width={245} height={245} className="h-8 w-8" />
-          <span className="font-display font-semibold tracking-tight">Recoup / VandyLoop</span>
+          <Image src="/recoup-logo.png" alt="Ravra" width={245} height={245} className="h-8 w-8" />
+          <span className="font-display font-semibold tracking-tight">Ravra / VandyLoop</span>
         </Link>
 
         <h1 className="font-display text-3xl font-semibold tracking-tight">
@@ -26,7 +26,7 @@ export default function TermsPage() {
 
         <div className="mt-8 space-y-6 text-[14px] text-ink-3 leading-relaxed">
           <Section title="What this is">
-            VandyLoop is a recycling challenge run by Recoup as a pilot at Vanderbilt. You earn
+            VandyLoop is a recycling challenge run by Ravra as a pilot at Vanderbilt. You earn
             points for verified aluminum-can returns and can redeem them for rewards funded by
             Vanderbilt and campus partners. Points have no cash value and are not transferable.
           </Section>

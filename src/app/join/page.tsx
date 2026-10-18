@@ -75,7 +75,7 @@ export default function JoinPage() {
       <div className="hidden lg:flex flex-col px-12 border-r border-line bg-brand-wash/40">
         <div className="lg:sticky lg:top-14 lg:h-[calc(100dvh_-_3.5rem)] flex flex-col justify-center">
           <div className="max-w-md">
-            <Image src="/recoup-logo.png" alt="Recoup" width={245} height={245} priority className="h-11 w-11 mb-6" />
+            <Image src="/recoup-logo.png" alt="Ravra" width={245} height={245} priority className="h-11 w-11 mb-6" />
             <h1 className="font-display text-4xl font-semibold tracking-tight leading-[1.1] text-ink">
               Join the VandyLoop March Madness recycling challenge.
             </h1>

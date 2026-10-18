@@ -1,5 +1,5 @@
 // Pilot Scenario Simulator math. Deterministic, bounded, and defensible.
-// Outputs match the published Recoup impact thesis.
+// Outputs match the published Ravra impact thesis.
 
 import { computeImpact, IMPACT_CONSTANTS } from "./impact";
 

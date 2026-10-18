@@ -33,7 +33,7 @@ export default function Landing() {
               <Dot tone="brand" />
               Vanderbilt pilot · live now
             </Badge>
-            <Badge tone="neutral">Recoup · Cleantech · AI</Badge>
+            <Badge tone="neutral">Ravra · Cleantech · AI</Badge>
           </div>
 
           <h1 className="font-display text-5xl md:text-7xl font-semibold tracking-[-0.03em] leading-[1.02] text-ink max-w-4xl">
@@ -43,7 +43,7 @@ export default function Landing() {
           </h1>
           <p className="mt-6 text-lg md:text-xl text-ink-3 max-w-2xl leading-relaxed">
             VandyLoop turns campus recycling into verified behavior, measurable outcomes, and
-            optimized operations. Built by Recoup. Piloting at Vanderbilt.
+            optimized operations. Built by Ravra. Piloting at Vanderbilt.
           </p>
 
           <div className="mt-8 flex flex-wrap items-center gap-3">

@@ -1,6 +1,6 @@
-# Recoup / VandyLoop
+# Ravra / VandyLoop
 
-[![CI](https://github.com/Orimia/recoup/actions/workflows/ci.yml/badge.svg)](https://github.com/Orimia/recoup/actions/workflows/ci.yml)
+[![CI](https://github.com/Orimia/ravra/actions/workflows/ci.yml/badge.svg)](https://github.com/Orimia/ravra/actions/workflows/ci.yml)
 
 ![VandyLoop, verified recycle-to-reward for universities](docs/hero.png)
 
@@ -8,11 +8,11 @@ Verified recycle-to-reward for universities. Students earn instant rewards for r
 
 **Live demo: https://vandyloop.vercel.app** (sign up, log a return, watch it flow through verification, reward, and the operator dashboard)
 
-VandyLoop is the Vanderbilt pilot of Recoup. It is being built for a 60-day pilot at Vanderbilt's Munchie Mart, starting with aluminum cans, run like a March Madness style recycling challenge.
+VandyLoop is the Vanderbilt pilot of Ravra. It is being built for a 60-day pilot at Vanderbilt's Munchie Mart, starting with aluminum cans, run like a March Madness style recycling challenge.
 
 ## The idea
 
-Recycling on campus is a behavior and measurement problem, not an infrastructure problem. The bins already exist. What is missing is participation, accountability, and verified data. Recoup adds a closed loop on top of existing infrastructure:
+Recycling on campus is a behavior and measurement problem, not an infrastructure problem. The bins already exist. What is missing is participation, accountability, and verified data. Ravra adds a closed loop on top of existing infrastructure:
 
 > identify the student, verify the material, log a verified event, issue a reward, update the operator dashboard, optimize.
 

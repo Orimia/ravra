@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const TITLE = "Recoup / VandyLoop · AI-powered recycling optimization";
+const TITLE = "Ravra / VandyLoop · AI-powered recycling optimization";
 const DESCRIPTION =
-  "VandyLoop turns campus recycling into verified behavior, measurable outcomes, and optimized operations. Vanderbilt pilot by Recoup.";
+  "VandyLoop turns campus recycling into verified behavior, measurable outcomes, and optimized operations. Vanderbilt pilot by Ravra.";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://vandyloop.vercel.app"),
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     url: "https://vandyloop.vercel.app",
-    siteName: "Recoup / VandyLoop",
+    siteName: "Ravra / VandyLoop",
     title: TITLE,
     description: DESCRIPTION,
     locale: "en_US",
@@ -62,7 +62,7 @@ export default function RootLayout({
             <div className="mx-auto max-w-7xl px-6 py-6 flex flex-wrap items-center justify-between gap-4 text-xs text-ink-4">
               <div className="flex items-center gap-2">
                 <span className="font-display tracking-tight text-ink-2 font-semibold">
-                  Recoup
+                  Ravra
                 </span>
                 <span className="text-ink-5">·</span>
                 <span>VandyLoop · Vanderbilt March Madness recycling challenge</span>
@@ -72,7 +72,7 @@ export default function RootLayout({
                   Operator console
                 </a>
                 <span className="text-ink-5">·</span>
-                <span>© 2026 Recoup, Inc.</span>
+                <span>© 2026 Ravra</span>
               </div>
             </div>
           </footer>

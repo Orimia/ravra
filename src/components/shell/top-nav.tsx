@@ -36,7 +36,7 @@ export function TopNav() {
         <Link href="/" className="flex items-center gap-2.5 group shrink-0">
           <Image
             src="/recoup-logo.png"
-            alt="Recoup"
+            alt="Ravra"
             width={245}
             height={245}
             priority
@@ -44,7 +44,7 @@ export function TopNav() {
           />
           <div className="leading-tight">
             <div className="font-display text-[15px] font-semibold tracking-tight text-ink">
-              <span className="text-brand">Recoup</span>
+              <span className="text-brand">Ravra</span>
               <span className="text-ink-4 font-normal"> / VandyLoop</span>
             </div>
           </div>

@@ -78,7 +78,7 @@ Walk the 4 headline numbers. "Every one of these is computed from pilot-observed
 
 Read the 40-point numbers: cans, value, CO₂e. Land the close:
 
-> "VandyLoop is the demo. Recoup is the platform — verified-behavior infrastructure for the circular economy. Vanderbilt is campus number one. Thank you."
+> "VandyLoop is the demo. Ravra is the platform — verified-behavior infrastructure for the circular economy. Vanderbilt is campus number one. Thank you."
 
 ---
 
